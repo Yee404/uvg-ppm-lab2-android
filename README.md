@@ -1,5 +1,4 @@
-# PlataformasMoviles
-# Laboratorio 2
+# PlataformasMoviles | Laboratorio 2
 
 # Requisitos previos
 
